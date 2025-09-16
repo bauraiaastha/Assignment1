@@ -1,6 +1,4 @@
 # Assignment1
-This project solves a matrix-based problem where we draw letters (Z, D, A, X) using numbers inside an N × N matrix.
-
 Problem Statement
 In the land of Matricia, the king encodes secret messages in patterns drawn on square
 grids.
